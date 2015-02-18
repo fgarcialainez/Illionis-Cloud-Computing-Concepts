@@ -97,6 +97,7 @@ int MP1Node::initThisNode(Address *joinAddr) {
      */
     // Node is up...
     memberNode->inited = true;
+    memberNode->bFailed = false;
     
     // Cleanup node state
     cleanupNodeState();
@@ -126,7 +127,6 @@ int MP1Node::introduceSelfToGroup(Address *joinAddr) {
 }
 
 void MP1Node::cleanupNodeState() {
-    memberNode->bFailed = false;
     memberNode->inGroup = false;
     
     memberNode->nnb = 0;
