@@ -1,0 +1,276 @@
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	MP1Node.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	MP1Node.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	MP1Node.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	MP1Node.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	EmulNet.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	EmulNet.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	EmulNet.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	EmulNet.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	Application.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	Application.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	Application.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	Application.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	Log.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	Log.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	Log.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	Log.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	Params.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	Params.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	Params.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	Params.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	Member.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-c
+	Member.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	Member.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-c
+	Member.cpp
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-o
+	Application
+	MP1Node.o
+	EmulNet.o
+	Application.o
+	Log.o
+	Params.o
+	Member.o
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-o
+	Application
+	MP1Node.o
+	EmulNet.o
+	Application.o
+	Log.o
+	Params.o
+	Member.o
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-o
+	Application
+	MP1Node.o
+	EmulNet.o
+	Application.o
+	Log.o
+	Params.o
+	Member.o
+	-Wall
+	-g
+	-std=c++11
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/Felix/Desktop/mp1_assignment
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-o
+	Application
+	MP1Node.o
+	EmulNet.o
+	Application.o
+	Log.o
+	Params.o
+	Member.o
+	-Wall
+	-g
+	-std=c++11
+

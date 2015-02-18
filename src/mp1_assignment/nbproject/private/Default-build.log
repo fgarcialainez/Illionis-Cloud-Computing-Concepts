@@ -1,0 +1,34 @@
+g++ -c MP1Node.cpp -Wall -g -std=c++11
+MP1Node.cpp:100:6: warning: unused variable 'port' [-Wunused-variable]
+        int port = *(short*)(&memberNode->addr.addr[4]);
+            ^
+MP1Node.cpp:99:6: warning: unused variable 'id' [-Wunused-variable]
+        int id = *(int*)(&memberNode->addr.addr);
+            ^
+MP1Node.cpp:166:1: warning: control reaches end of non-void function [-Wreturn-type]
+}
+^
+MP1Node.cpp:221:1: warning: control reaches end of non-void function [-Wreturn-type]
+}
+^
+4 warnings generated.
+g++ -c EmulNet.cpp -Wall -g -std=c++11
+g++ -c Application.cpp -Wall -g -std=c++11
+Application.cpp:93:6: warning: unused variable 'timeWhenAllNodesHaveJoined' [-Wunused-variable]
+        int timeWhenAllNodesHaveJoined = 0;
+            ^
+Application.cpp:95:7: warning: unused variable 'allNodesJoined' [-Wunused-variable]
+        bool allNodesJoined = false;
+             ^
+2 warnings generated.
+g++ -c Log.cpp -Wall -g -std=c++11
+Log.cpp:94:16: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+                fprintf(fp2, buffer);
+                             ^~~~~~
+Log.cpp:99:15: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+                fprintf(fp, buffer);
+                            ^~~~~~
+2 warnings generated.
+g++ -c Params.cpp -Wall -g -std=c++11
+g++ -c Member.cpp -Wall -g -std=c++11
+g++ -o Application MP1Node.o EmulNet.o Application.o Log.o Params.o Member.o -Wall -g -std=c++11
