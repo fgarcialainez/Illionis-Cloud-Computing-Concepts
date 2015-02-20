@@ -24,6 +24,6 @@ case $1 in
 	./Application testcases/msgdropsinglefailure.conf > /dev/null;;
 	*) echo "Please enter a valid option";;
 esac
-cp dbg.log ../
-cd ..
+cp dbg.log ../../
+cd ../..
 rm -rf grade-dir
