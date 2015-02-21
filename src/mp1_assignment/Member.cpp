@@ -32,7 +32,7 @@ Address& Address::operator =(const Address& anotherAddress) {
  * Compare two Address objects
  */
 bool Address::operator ==(const Address& anotherAddress) {
-    return memcmp(this->addr, anotherAddress.addr, sizeof(this->addr));
+    return !memcmp(this->addr, anotherAddress.addr, sizeof(this->addr));
 }
 
 /**

@@ -371,7 +371,7 @@ void MP1Node::initMemberListTable(Member *memberNode) {
  * DESCRIPTION: Check if a given node address is equal to the address of the node
  */
 bool MP1Node::isAddressEqualToNodeAddress(Address *address) {
-    return (strcmp((char*)&(memberNode->addr.addr), (char *)&(address->addr)) == 0);
+    return (memcmp((char*)&(memberNode->addr.addr), (char*)&(address->addr), sizeof(memberNode->addr.addr)) == 0); 
 }
 
 /**
